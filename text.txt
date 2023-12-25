@@ -1,0 +1,6 @@
+1.Programist ve Developer arasindaki ferq nedir?
+Proqramist bir az daha ixtisaslaşmış bir insandır. Developer dizayn və digər xüsusiyyətlərə diqqət yetirərək tam qüsursuz bir kompüter proqramı yaza və yarada bilər. Developerler programistlerden fərqli olaraq məsələ bir proqramın inkişafına gəldikdə daha ümumi ola bilərlər.
+2.Paradigmalari arasdirib her birine bir ornek yazin.
+Göründüyü kimi Paradigma 2 əsas hissəyə bölünüb: “İmperativ” lik və “Deklarativ” lik. 
+Imperativde kodlar setir-setir icra olunur. Meselen C dili
+Deklerativ funksiyalarla verilmesidi ve setir setir icra olunmur. Meselen SQL
